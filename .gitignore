@@ -1,0 +1,6 @@
+#IDE, sass and livereload temporary files
+.idea
+node_modules
+
+Thumbs.db
+.diff

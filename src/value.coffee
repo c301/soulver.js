@@ -30,7 +30,9 @@ class window.Value
 		@
 
 	toString: ->
+		isDecimal = (num) ->
+			if num % 1 then true else false
 		str = ''
 		if @currency
 			str += @currency
-		str += @num.toFixed 2
+		str += if isDecimal( @num ) then @num.toFixed 2 else parseInt @num

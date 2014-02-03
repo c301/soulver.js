@@ -1,6 +1,6 @@
 
-Demo
-----
+Demo ( with original soulver by vjeux )
+---------------------------------------
 
 http://fooo.fr/~vjeux/github/soulver.js/soulver.html
 

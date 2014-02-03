@@ -1,0 +1,29 @@
+{
+  "name": "soulver.js",
+  "version": "0.1.0",
+  "description": "Fork of the original https://github.com/vjeux/soulver.js in order to improve and adapt",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c301/soulver.js.git"
+  },
+  "keywords": [
+    "soulver",
+    "calculator"
+  ],
+  "author": "Anton Sivolapov <anton.sivolapov@gmail.com> (https://github.com/c301)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c301/soulver.js/issues"
+  },
+  "homepage": "https://github.com/c301/soulver.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.9.0",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-jison": "~1.2.1"
+  }
+}
